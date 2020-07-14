@@ -24,7 +24,7 @@ Apart from all these features which we are using till now on Microsoft paint , h
 3. an AI system for speech to text conversion, this features comes with both hindi and english convertor plus threshold energy controller , which help us to customise 
 the application according to surrounding noise.
 
-![speech reco](https://user-images.githubusercontent.com/61404154/87456949-41e77980-c625-11ea-9052-255733727262.PNG)
+![reco23](https://user-images.githubusercontent.com/61404154/87467461-9e529500-c635-11ea-991b-f5ce1b6636e6.PNG)
 
 
 
