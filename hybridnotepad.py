@@ -1289,7 +1289,7 @@ def MoreColors():
 
 
 for i in range(0, len(colors)):
-    color_menu.menu.add_radiobutton(label=lis[i], command=MoreColors, variable=colorMore, value=colors[i],
+    color_menu.menu.add_radiobutton(label=colors[i], command=MoreColors, variable=colorMore, value=colors[i],
                                     background=colors[i])
 
 color_menu.pack()
