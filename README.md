@@ -1,4 +1,4 @@
-# IndiPaint = Paint+Notepad+AI
+# Pypaint
 Hello everyone , I have made this project on python using python's GUI library ie. Tkinter. 
 This project is created with reference to Microsoft Paint and I  had implement most of its features.
 
